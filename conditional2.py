@@ -1,3 +1,4 @@
+# proplem set 1: user enters file extension and program output it
 
 def main():
     x=input("File name: ")
@@ -23,5 +24,5 @@ def file (f):
         
         case _:
             print("application/octet-stream")# default case
-            
+
 main()
